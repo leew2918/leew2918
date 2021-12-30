@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ``````
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++ C#
+- 💞️ I’m looking to collaborate on HertZxD
